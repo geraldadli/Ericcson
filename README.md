@@ -1,5 +1,3 @@
-Here’s a concise, clean, and to-the-point version of your **README.md**:
-
 ---
 
 # 🌾 IoT Agriculture
